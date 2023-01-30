@@ -1,6 +1,6 @@
 # Hey there, I'm John 👋
 
-I'm a self-taught full-stack web developer based in Queensland, Australia. My ultimately goal is to collaborate with companies & businesses to **produce true value** and **create real change**.
+I'm a self-taught full-stack web developer based in Queensland, Australia. My ultimate goal is to collaborate with companies & businesses to **produce true value** and **create real change**.
 
 🌱 **I’m currently learning:** T3 Stack
 ⚡**Fun fact:** I love playing sports - basketball, volleyball, rugby
