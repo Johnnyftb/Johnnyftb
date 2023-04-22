@@ -2,6 +2,8 @@
 
 I'm a self-taught full-stack web developer based in Brisbane, Australia. My ultimate goal is to collaborate with companies & businesses to **produce true value** and **create real change**.
 
+I'm also currently completing a **Bachelor of Information Technology**, majoring in **Computer Science** at the **Queensland University of Technology**.
+
 🌱 **I’m currently learning:** Python & MySQL <br/>⚡**Fun fact:** I love playing sports - basketball, volleyball, rugby
 
 ## 💻 Tech Stack:
