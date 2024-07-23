@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">I'm a Computer Science student at the University of Queensland and aspiring software engineer.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
